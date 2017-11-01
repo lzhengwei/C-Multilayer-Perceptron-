@@ -1,0 +1,8 @@
+C:\Users\User\Documents\Visual Studio 2012\Projects\MLP NN\MLP NN\obj\Debug\MLP NN.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\MLP NN\MLP NN\obj\Debug\MLP_NN.Form1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\MLP NN\MLP NN\obj\Debug\MLP_NN.Properties.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\MLP NN\MLP NN\obj\Debug\MLP NN.csproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\MLP NN\MLP NN\bin\Debug\MLP NN.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\MLP NN\MLP NN\bin\Debug\MLP NN.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\MLP NN\MLP NN\obj\Debug\MLP NN.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\MLP NN\MLP NN\obj\Debug\MLP NN.pdb
